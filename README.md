@@ -7,4 +7,4 @@ Team Members: ahelsel2, alexk4, ziyet3, yuchenc5, nrkim2
 
 Project Manager: welby2, emilyc7
 
-Project Description: 
+Project Description: 3D RPG game that is built off of Unity and runs on Android. 
