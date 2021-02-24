@@ -1,5 +1,5 @@
 # Group 3
-Group Name: Group 3
+Group Name: Mobile Game Dev
 
 [MVP Link](https://docs.google.com/document/d/1cv8KGVCBezWb1Bx9K16c5M0otJB2OdVg-f3nYUVcpdU/edit?usp=sharing)
 
