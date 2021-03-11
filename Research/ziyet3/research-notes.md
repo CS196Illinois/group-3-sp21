@@ -13,6 +13,14 @@ Press "W", "S", "A", "D", "Q", "E" while holding the right mose button can move 
 
 In "Game" window: 
 It will show how the game runs after you click on the start icon at top.
+Click on "Free Aspect" to choose aspect ratio of game display.
+"Status" shows every prameters and attibutes when running the game.
+
+"Hierarchy" window lists all objects in the scene.
+
+"Project" shows all resources used.
+
+In "Inspector" Window, you can change the attribute of resources used and objects in scene.
 
 
 
