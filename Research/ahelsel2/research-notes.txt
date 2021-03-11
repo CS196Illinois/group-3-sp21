@@ -1,0 +1,98 @@
+Anthony Helsel
+Team 3 ** Mobile Game Dev **
+
+Unity Research Notes for Sprint 1
+
+Links:
+https://learn.unity.com/project/creator-kit-rpg
+https://www.freecodecamp.org/news/the-ultimate-beginners-guide-to-game-development-in-unity-f9bfe972c2b5/
+
+
+=====================================
+GETTING STARTED:
+=====================================
+Unity Layout:
+	4 Main Portions of the Unity Program:
+		- Scene Window
+			You're able to view what you're working on (in the world) and move things around. Basically a 3D space
+			where you can move objects around. A 'scene' is basically the world the game is contained within.
+		- Hierarchy Window
+			All of the objects in a scene(in the window above) will be listed here. You can group objects together
+			depending on if they correlate with one another. This way, if you do one thing to a Object with a higher
+			heirarchy, the objects below it in heirarchy will also be affected. And you can have things in different
+			groups so that you can change on object without affecting other objects in the current scene.
+		- Inspector Window
+			Settings will be here that pertain to the object you currently have selected. So; you select a Scene,
+			then select a group of objects, then select and object, and the Object's properties will be listed
+			in the 'Inspector' window.
+		- Project Window
+			Contains things called 'assets'. Assets the different properties a game (or any project) has. So, any	
+			music, models, pictures, or anything that could possibly be in your game, will be contained in the 
+			'Project' Window. You use this to switch between given assets. Once you choose an asset you can use it
+			within the scene with your other objects in the other windows.
+	
+	The 'Toolbar':
+		Use the toolbar to test the game itself. After you implement something or change something, you use the
+		toolbar to test everything within the scene. 
+			Play, Pause, and Step: 
+				Play is used to start a given scene/game, Pause stops it. Step can be used to increment slowly
+				through a scene rather than going full speed through it as you would with 'Play'.
+			Object Manipulation:
+				Hand, Rotate, and Move:
+					Hand is used to change your view/perspective within the scene. You don't actually move any
+					object with 'Hand', you just move your viewpoint. 'Move' lets you move objects around in the 
+					scene. 'Rotate' lets you choose a Object and rotate it on an axis. 'Scale' allows you to make
+					something bigger or smaller.
+
+					
+====================================
+Actually Creating the Game:
+====================================
+	World:
+		First, create a new 'Scene'. There are RPG templates to choose from. Templates contain Objects/Collections
+		of objects in order to help you get started.
+			There are 4 Aspects to an RPG World (atleast with this tutorial)
+				Background:
+					The background, things you can see but cannot touch/go to.
+				Midground:
+					Things inside the world that you can see but are more decorative than functional and may be out of reach
+				Foreground:
+					Things you can see/be directly next to and probably serve a more functional purpose. 
+				Fences:
+					Say where a player can and can't go within a world. (Basically sets the bounds)
+			The 'Tilemap':
+				The tilemap is the way in which the world is laid out in this format of RPG. The world is divided into blocks
+				or 'tiles' that you can individually apply textures and effects to.  
+		'Palettes':
+			Palettes are premade textures and effects to help you make the world.
+				Palettes can be applied using different tools:	
+					Paintbrush: Select a tile and change it's color
+					Fillbox: Drag the cursor to select bounds in which to apply a texture/effect
+					Picker: Pick tiles to apply a texture to
+					Eraser: Used to erase a texture/effect applied to a certain tile
+			
+			Effects:
+				Effects can help make your world seem bigger than it is and also make it easier to navigate. For example
+				the 'Fade' effect can be used when entering a building by removing the roof so you can see into the	
+				building from above.
+					In order to add an effect to an Object:
+						Add a component called 'Box Collider' in the Inspector Window. 
+						Add a 'trigger' where to effect will be triggered
+							For example, the door/entrance of a building would be a trigger so that when you	
+							enter the building the 'Fade' effect would trigger and the roof would fade away
+							
+
+	Content:
+		NPCs:
+			NPCs are characters within the game that are not the player but that the player can interact with
+			in an RPG
+				Conversations:
+					'Conversation Script' component is found in the 'Inspector' Window and can be used to add diologue as
+					well as diologue branches.
+						A diologue branch is basically how the diologue progresse. So, based on the diologue option the 
+						player chooses, a response will be given. You can have different responses and diologue 'paths'
+						for different responses chosen by the player
+					Under the 'Conversation Script' in Inspector, there is a menu for branches.
+						Branches are labelled 1.0 , 1.1, 1.2, etc; with 1.0 being the original diologue and everything
+						after being a branch. So with a certain response chosen by the player, you can choose to output
+						'1.1' or '1.2' or whichever branch you want.
