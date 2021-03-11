@@ -1,0 +1,546 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-03-11T16:50:40.506-06:00
+  initializedAtString: 2021-03-11T16:50:40.506-06:00
+  entries:
+  - path: Project/group-3-project/Assets/Plugins.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project/group-3-project/Library/ArtifactDB
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project/group-3-project/Library/Artifacts/0e/0ed155adcf61320117e6d5157949d75d
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/0e/0ed155adcf61320117e6d5157949d75d
+    projectPath: Library/Artifacts/0e/0ed155adcf61320117e6d5157949d75d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/28/2806544e971ba6784a0768a08410e29b
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/28/2806544e971ba6784a0768a08410e29b
+    projectPath: Library/Artifacts/28/2806544e971ba6784a0768a08410e29b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/29/29e8e78f8fb0e959e81ea6cca5cb9a01
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/29/29e8e78f8fb0e959e81ea6cca5cb9a01
+    projectPath: Library/Artifacts/29/29e8e78f8fb0e959e81ea6cca5cb9a01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/34/34e52b14fc6a36139366578b97d49065
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/34/34e52b14fc6a36139366578b97d49065
+    projectPath: Library/Artifacts/34/34e52b14fc6a36139366578b97d49065
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/5d/5d199490cde45c3c1ead37323226ef09
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/5d/5d199490cde45c3c1ead37323226ef09
+    projectPath: Library/Artifacts/5d/5d199490cde45c3c1ead37323226ef09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/63/63f4e31efac9dc5af2aae9bbb3e27feb
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/63/63f4e31efac9dc5af2aae9bbb3e27feb
+    projectPath: Library/Artifacts/63/63f4e31efac9dc5af2aae9bbb3e27feb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/72/72e45538f7bab41787a5363c866640d2
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/72/72e45538f7bab41787a5363c866640d2
+    projectPath: Library/Artifacts/72/72e45538f7bab41787a5363c866640d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/73/73738f855e23d867fab556737281d5b7
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/73/73738f855e23d867fab556737281d5b7
+    projectPath: Library/Artifacts/73/73738f855e23d867fab556737281d5b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/85/852ac3352a288553a69a2fb1f9afe499
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/85/852ac3352a288553a69a2fb1f9afe499
+    projectPath: Library/Artifacts/85/852ac3352a288553a69a2fb1f9afe499
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/8b/8bde76ee34718d3c5b6a8cc70cad6b61
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/8b/8bde76ee34718d3c5b6a8cc70cad6b61
+    projectPath: Library/Artifacts/8b/8bde76ee34718d3c5b6a8cc70cad6b61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/8c/8cf1b260687b84a84d77ad6e1bcb2690
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/8c/8cf1b260687b84a84d77ad6e1bcb2690
+    projectPath: Library/Artifacts/8c/8cf1b260687b84a84d77ad6e1bcb2690
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/8d/8d71f5b593570031b10efc231611eb3c
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/8d/8d71f5b593570031b10efc231611eb3c
+    projectPath: Library/Artifacts/8d/8d71f5b593570031b10efc231611eb3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/9e/9ea4bef675b03e8d197949c362420f13
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/9e/9ea4bef675b03e8d197949c362420f13
+    projectPath: Library/Artifacts/9e/9ea4bef675b03e8d197949c362420f13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/9e/9ef4f1e3ab77ffe79b6532a03129cddb
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/9e/9ef4f1e3ab77ffe79b6532a03129cddb
+    projectPath: Library/Artifacts/9e/9ef4f1e3ab77ffe79b6532a03129cddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/a0/a05ddbba6d04aad9fb393e7294b54fb9
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/a0/a05ddbba6d04aad9fb393e7294b54fb9
+    projectPath: Library/Artifacts/a0/a05ddbba6d04aad9fb393e7294b54fb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/a2/a2925dd410c7d4e5e5fa67265bcabeb6
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/a2/a2925dd410c7d4e5e5fa67265bcabeb6
+    projectPath: Library/Artifacts/a2/a2925dd410c7d4e5e5fa67265bcabeb6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/a2/a2d84f0db1fac2c14b531ddab222b37f
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/a2/a2d84f0db1fac2c14b531ddab222b37f
+    projectPath: Library/Artifacts/a2/a2d84f0db1fac2c14b531ddab222b37f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/aa/aa1058c4fa9712b38d8003256e52cad7
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/aa/aa1058c4fa9712b38d8003256e52cad7
+    projectPath: Library/Artifacts/aa/aa1058c4fa9712b38d8003256e52cad7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/b0/b01d4ea0aedafe60aabfb52ba883787a
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/b0/b01d4ea0aedafe60aabfb52ba883787a
+    projectPath: Library/Artifacts/b0/b01d4ea0aedafe60aabfb52ba883787a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/b8/b8a35a47380c60606e16a47869763d8c
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/b8/b8a35a47380c60606e16a47869763d8c
+    projectPath: Library/Artifacts/b8/b8a35a47380c60606e16a47869763d8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/c8/c8ab31b584f6a9ecc0d93ee5e83dfe99
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/c8/c8ab31b584f6a9ecc0d93ee5e83dfe99
+    projectPath: Library/Artifacts/c8/c8ab31b584f6a9ecc0d93ee5e83dfe99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/dd/dd5382994d36c379c2c1e5babf32d984
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/dd/dd5382994d36c379c2c1e5babf32d984
+    projectPath: Library/Artifacts/dd/dd5382994d36c379c2c1e5babf32d984
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/e8/e810d22fc55d9d985c457f5b247ef443
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/e8/e810d22fc55d9d985c457f5b247ef443
+    projectPath: Library/Artifacts/e8/e810d22fc55d9d985c457f5b247ef443
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/Artifacts/fb/fbccd99eefcdc53f9fe706b662680abf
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/Artifacts/fb/fbccd99eefcdc53f9fe706b662680abf
+    projectPath: Library/Artifacts/fb/fbccd99eefcdc53f9fe706b662680abf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/EditorSnapSettings.asset
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/EditorSnapSettings.asset
+    projectPath: Library/EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/InspectorExpandedItems.asset
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project/group-3-project/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/SourceAssetDB
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project/group-3-project/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/ProjectSettings/TimelineSettings.asset
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/ProjectSettings/TimelineSettings.asset
+    projectPath: ProjectSettings/TimelineSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project/group-3-project/UserSettings/AndroidLogcatSettings.asset
+    fullPath: /Users/welby/c/cs196/group-3-sp21/Project/group-3-project/UserSettings/AndroidLogcatSettings.asset
+    projectPath: UserSettings/AndroidLogcatSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
