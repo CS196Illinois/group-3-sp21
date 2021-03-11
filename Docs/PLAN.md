@@ -1,5 +1,9 @@
 Finished product: Mobile RPG game with a 3D environment. Will run on an Android device and will be built using Unity with Android. 
 
+Sprint 1 -\
+Watching Unity tutorials,\
+filling out notes and commitng to the Research folder,
+
 
 Sprint 2 -\
 We will need to create a 3D environment in Unity,\
