@@ -1,3 +1,5 @@
+CLICK ON "RAW" TO VIEW WITH ORIGINAL FORMATTING AND BULLET POINTS
+
 -> Getting Started
     -> When installing Unity, make sure to also download the Android Build Support module
     -> Unity has a Mobile 3D Game template that we can use when starting a project
