@@ -1,0 +1,61 @@
+-> Getting Started
+    -> When installing Unity, make sure to also download the Android Build Support module
+    -> Unity has a Mobile 3D Game template that we can use when starting a project
+    -> Once the project has loaded, to link an Android device, go to File → Build Settings and select Android
+    -> Also, go to Edit → Editor and change the Device from “None” to “Any Android Device”
+    -> Now, FOR NON-ANDROID USERS (idk if this is the best way)
+        -> To run the project on an emulator, open up Android Studio and Create a New Project
+        -> Once the project is made, click the AVD Manager in the top right corner and create a new virtual device
+        -> Once you launch the emulator, go back to Unity and now you should be able to run the project on the emulator
+            -> For some emulators, I got an error “Your device does not match the hardware requirements of this application”
+                -> Go to Edit → Project Settings → Player and change Color Space to “Gamma” and check the box “Auto Graphics API”
+            -> File → Build and Run
+        -> To make sure the game can only be played in Landscape mode, go to Edit → Project Settings → Player → Resolution and Presentation, change Default Orientation to “Auto Rotation” and unclick “Portrait” and “Portrait Upside Down”
+
+-> Basic Controls in Unity
+    -> Scroll to zoom in and out
+    -> Click on the hand icon in the top left corner to move the view around
+    -> Right click to adjust the angle of the view
+    -> To move objects, click on the 4 arrows icon and now you can click and drag any objects to be moved
+    -> Click on the three axes on an object to move in the specified directions 
+
+-> Building a Player
+    -> Right click on the Hierarchy side and create a 3D Cube
+        -> Rename this to GFX as this will function as our graphics (I think)
+        -> Under Inspector, remove the Box Collider component
+    -> Then right click again and create a Empty Object
+        -> Rename this to Player as this will function as out player
+    -> Drag GFX to be into/under the Player
+        -> In the Inspector for Player, add the component NavMeshAgent
+            -> This handles the Player’s pathfinding and spatial reasoning
+            -> We can edit the values as needed
+    -> We can add a Capsule Collider component to control Player collisions
+    -> We can also add a RigidBody component to put the Player under the effects of physics in Unity
+        -> Check the “isKinematic” box
+    -> To actually control the Player, we can add a component “New Script” which we can use an IDE like Visual Studios to edit the code
+        -> Scripts in Unity are coded in C# which is something I never have worked on before
+        -> Still not sure how to integrate Java code
+    -> Helpful Video for making a First Person Player
+        -> https://www.youtube.com/watch?v=_QajrabyTJc&ab_channel=Brackeys
+
+-> Building a Level Map (https://www.youtube.com/watch?v=YtzIXCKr8Wo&ab_channel=Brackeys)
+    -> We can Install the packages ProBuilder and ProGrid to help with design
+        -> Go to Window → Package Manager and search ProBuilder
+        -> For ProGrids, you may need to go to Advanced and select “Show preview packages”
+    -> To open up ProBuilder, go to Tools and then Alt-Click on a Cube
+        -> We can adjust the dimensions from here
+    -> Recommendation: 
+        -> Create a Material in the Assets folder in the Project window and set the main map to be GridBox_Default 	
+            -> You may need to click the eye icon in the top right hand corner to unhide certain textures
+        -> Then, to set this texture for everything, go to Edit → Preferences → ProBuilder, scroll down to Material and drag and drop the Material we just created in there
+    -> We can use ProBuilder to make floors, walls, stairs, objects, etc
+    -> Helpful tips
+        -> Control + D duplicates an object
+        -> Select a face and hold shift when “moving” an object to extend it
+        -> We can also place the First Person Player from above into our level to move around and play the game
+    -> From here, just follow the rest of the steps in the video
+        -> We can use this to design the different rooms for our game
+
+-> Helpful Links
+    -> For moving and positioning game objects
+        -> https://docs.unity3d.com/Manual/PositioningGameObjects.html
