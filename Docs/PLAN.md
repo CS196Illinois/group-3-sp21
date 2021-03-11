@@ -4,20 +4,20 @@ Finished product: Mobile RPG game with a 3D environment. Will run on an Android 
 Sprint 2 -\
 We will need to create a 3D environment in Unity,\
 integrate Unity with Android so we can test and develop features more accurately on a phone or perhaps emulator,\
-import textures and landscaping/environment features,\
+import textures and landscaping/environment features,
 
 
 Sprint 3 -\
 import character model for main character,\
 import or write scripts for character movement (this includes making the controls that will be seen on the phone screen),\
 import or write scripts for character actions (attacking, jumping, running, collecting items, engaging in dialogue),\
-write script for camera (camera needs to follow player at certain height and should be able to pivot around player),\
+write script for camera (camera needs to follow player at certain height and should be able to pivot around player),
 
 
 Sprint 4 -\
 import models for items (weapons, treasure, potions, etc),\
 import models for other NPCs (enemies or friendlies),\
-import or write scripts for these NPC models (walking around randomly, agro-ing on player, attacking player),\
+import or write scripts for these NPC models (walking around randomly, agro-ing on player, attacking player),
 
 
 Sprint 5 -\
