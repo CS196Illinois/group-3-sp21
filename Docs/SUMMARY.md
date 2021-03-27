@@ -7,6 +7,8 @@ This week try to watch some unity tutorials (there's plenty of rpg specific ones
 Sprint 2 -\
 Mid-point meeting - we reviewed the 3 tasks we were working on and have completed android integration along with character movement and first person camera controls, and have imported a few assets including map design and textures
 
+End meeting - we determined our Android integration is almost ready (we need to fix a few bugs with the camera), we have some textures saved in labeled folders for easy access later, we have a decent start to our 3d map (need to integrate seperate rooms)
+
 
 Sprint 3 -\
 
