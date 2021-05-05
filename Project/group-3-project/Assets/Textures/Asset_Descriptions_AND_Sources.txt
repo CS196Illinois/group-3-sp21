@@ -1,0 +1,64 @@
+####Nobiax Yughues Textures/3D Models:####
+	3D Models:
+		- Environments
+			Pillars, Columns, 
+			From: https://assetstore.unity.com/packages/3d/environments/yughues-free-pillars-columns-13103
+		- Interior Props
+			Decorative Plants
+			From: https://assetstore.unity.com/packages/3d/props/interior/yughues-free-decorative-plants-13283
+		- Plants
+			Bushes
+			From: https://assetstore.unity.com/packages/3d/vegetation/plants/yughues-free-bushes-13168
+		- Trees
+			From: https://assetstore.unity.com/packages/3d/vegetation/trees/yughues-free-palm-trees-13540
+	
+	Textures:
+		- Concrete
+			From: https://assetstore.unity.com/packages/2d/textures-materials/concrete/yughues-free-concrete-materials-12951
+		- Ground
+			From: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
+		- Metal
+			From: https://assetstore.unity.com/packages/2d/textures-materials/metals/yughues-free-metal-materials-12949
+		- Nature
+			From: https://assetstore.unity.com/packages/2d/textures-materials/nature/yughues-free-nature-materials-13237
+		- Pavement
+			From: https://assetstore.unity.com/packages/2d/textures-materials/roads/yughues-free-pavement-materials-12952
+		- Stone
+			From: https://assetstore.unity.com/packages/2d/textures-materials/stone/yughues-free-stone-materials-12962
+
+
+####FrOzBi Textures:####
+	Textures:
+		- Wood Patterns
+			From: https://assetstore.unity.com/packages/2d/textures-materials/wood/wood-pattern-material-170794
+
+####Avionx:####
+	Textures:
+		- Skies
+			From: https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
+		- World Textures (15 Textures both realistic and stylistic)
+			From: https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182
+
+####A Dog's Life Software####
+	Textures:
+		- Outdoor Textures (Ground Textures)
+			From: https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
+
+####Poneti Free Textures####
+	Textures:
+		- Cursors
+			From: https://assetstore.unity.com/packages/2d/textures-materials/basic-rpg-cursors-139404
+
+####SWG2combr Textures####
+	Textures:
+		- Nature Materials (vol 2)
+			From: https://assetstore.unity.com/packages/2d/textures-materials/nature/nature-materials-vol-2-32020
+
+####Shapes####
+	Textures:
+		- Nature Start Kit (2nd edition)
+			From: https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977
+####PXLtiger Textures####
+	Textures/Models:
+		- Fantasy Landscape (Package that includes textures and trees/nature items)
+			From: https://assetstore.unity.com/packages/3d/environments/fantasy-landscape-103573
